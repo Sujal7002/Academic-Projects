@@ -1,0 +1,5 @@
+/*Sujal More 1001926735 */
+char *PhraseBank[] = {"Max Emilian Verstappen","Fernando Alonso Diaz", "Lando Norris",
+                 "Sergio Michel Checo Perez Mendoza", "Yuki Tsunoda", "Lance Strulovitch",
+				 "(Sir) Lewis Carl Davidson Hamilton (GOAT)", "Valtteri Viktor Bottas",
+				 "Daniel Ricciardo", "Pierre Gasly", ""};
