@@ -1,4 +1,4 @@
-// Sujal More 1001926735
+// Sujal More
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
